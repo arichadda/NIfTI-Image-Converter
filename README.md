@@ -37,7 +37,7 @@ python3 /Volumes/DS_Projects/nifti_to_png/nii2png.py -i /Volumes/DS_Projects/arc
 ```
 ## Permissions
 
-If you didn't install nii2png through pip, you may need to grant nii2png.py permission to execute. On unix systems, Python scripts can be made executable using the following process:
+You may need to make the file executable by running the command below. 
 
 ```
 $ chmod +x nii2png.py
