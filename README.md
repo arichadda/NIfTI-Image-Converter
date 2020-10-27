@@ -45,3 +45,7 @@ $ chmod +x nii2png.py
 
 Optional: You can also move `nii2png.py` into your bin directory, and it will be runnable from anywhere.
 
+<p align="left">
+  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.7|%203.8-brightgreen.svg" alt="Python supported"></a>
+</p>
+
